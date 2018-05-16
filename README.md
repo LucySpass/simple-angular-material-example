@@ -1,6 +1,10 @@
-# BegovichLab2
+# simple-angular-material-example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+## Installation
+
+Run `npm install` in project folder (where package.json is).
 
 ## Development server
 
